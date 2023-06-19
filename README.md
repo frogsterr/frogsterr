@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Benjamin Shvartsman</h1>
 <h3 align="center">Exploring my future with AI/ML</h3>
+![image](https://github.com/frogsterr/frogsterr/assets/86971030/83b06498-9638-42fc-8999-2c4370c674e8)
 
 
 - 🔭 I’m currently working on [Sift.ai](https://github.com/frogsterr/LLMSite)
