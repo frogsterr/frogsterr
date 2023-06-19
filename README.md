@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Benjamin Shvartsman</h1>
 <h3 align="center">Exploring my future with AI/ML</h3>
-<img align="right" alt="Coding" width="200" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif"
->
 
 
 - 🔭 I’m currently working on [Sift.ai](https://github.com/frogsterr/LLMSite)
@@ -22,6 +20,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frogsterr&show_icons=true&locale=en" alt="frogsterr" /></p>
+<img align="right" alt="Coding" width="200" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif"
+>
 
 
 
