@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Benjamin Shvartsman</h1>
 <h3 align="center">Exploring my future with AI/ML</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/3f85c3b7e8ea663f4dad8b5f1dd6a550/tumblr_ozzo9xXiHH1qbgdnxo1_540.gif">
+<img align="right" alt="Coding" width="200" src="https://64.media.tumblr.com/3f85c3b7e8ea663f4dad8b5f1dd6a550/tumblr_ozzo9xXiHH1qbgdnxo1_540.gif">
 
 
 - 🔭 I’m currently working on [Sift.ai](https://github.com/frogsterr/LLMSite)
