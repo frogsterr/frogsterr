@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Benjamin Shvartsman</h1>
 <h3 align="center">Exploring my future with AI/ML</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frogsterr" alt="frogsterr" /></a> </p>
 
 - 🔭 I’m currently working on [Sift.ai](https://github.com/frogsterr/LLMSite)
 
