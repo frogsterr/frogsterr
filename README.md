@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Benjamin Shvartsman</h1>
 <h3 align="center">Exploring my future with AI/ML</h3>
-<img align="right" alt="Coding" width="200" src="https://64.media.tumblr.com/3f85c3b7e8ea663f4dad8b5f1dd6a550/tumblr_ozzo9xXiHH1qbgdnxo1_540.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstemettes.org%2Fzine%2Farticles%2Fcreative-coding-when-art-technology-collide%2F&psig=AOvVaw0TUizt6XVZlX0wejuGVT41&ust=1687281955357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCp5J_tz_8CFQAAAAAdAAAAABAr">
+<img align="right" alt="Coding" width="200" src="[https://64.media.tumblr.com/3f85c3b7e8ea663f4dad8b5f1dd6a550/tumblr_ozzo9xXiHH1qbgdnxo1_540.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstemettes.org%2Fzine%2Farticles%2Fcreative-coding-when-art-technology-collide%2F&psig=AOvVaw0TUizt6XVZlX0wejuGVT41&ust=1687281955357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCp5J_tz_8CFQAAAAAdAAAAABAr](https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif)">
 
 
 - 🔭 I’m currently working on [Sift.ai](https://github.com/frogsterr/LLMSite)
