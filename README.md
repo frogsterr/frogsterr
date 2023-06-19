@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything!**
 
-- 📫 How to reach me **benjiblackk@yahoo.com**
+- 📫 Reach me @ **benjiblackk@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
