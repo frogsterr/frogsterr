@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="300" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif"
 >
 
-- 🔭 I’m currently working on [SignWave Labs (Real Time ASL translation!](https://github.com/frogsterr/LLMSite)
+- 🔭 I’m currently working on [SignWave Labs (Real Time ASL translation!]
 
-- 🌱 I’m currently learning about **TensorRT**
+- 🌱 I’m currently learning about **TensorRT & Go**
 
 - 👯 I’m looking to collaborate on **anything!**
 
