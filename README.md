@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif"
 >
 
-- 🔭 I’m currently working on [Distributed Machine Learning Systems!]
+- 🔭 I’m currently working on **Distributed Machine Learning Systems!**
 
 - 🌱 I’m currently learning about **Go**
 
