@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Distributed Machine Learning Systems!**
 
-- 🌱 I’m currently learning about **Go**
+- 🌱 I’m currently learning about **Financial Algorithms**
 
 - 👯 I’m looking to collaborate on **anything!**
 
