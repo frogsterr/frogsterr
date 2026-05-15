@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="300" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif"
 >
 
-- 🔭 I’m currently working on **Agents @ NVIDIA**
+- 🔭 I’m currently working at **YouTube**
 
-- 🌱 I’m currently learning about **Financial Algorithms**
+- 🌱 I’m currently learning about **Robot Learning**
 
 - 👯 I’m looking to collaborate on **anything!**
 
